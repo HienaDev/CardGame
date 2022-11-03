@@ -17,8 +17,7 @@ def goFish(Deck):
 
 #ola github, teste 1 2
 
-shuffleDeck(DeckPlayer)
-print("Player's Shuffled Deck: ")
+
 showDeck(DeckPlayer)
 print("\n")
 shuffleDeck(DeckNPC)
