@@ -15,7 +15,7 @@ def goFish(Deck):
     
     print("He gets " + str(Deck[12]) + " and " + str(Deck[13]))
 
-
+#ola github, teste 1 2
 
 shuffleDeck(DeckPlayer)
 print("Player's Shuffled Deck: ")
